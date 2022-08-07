@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mantispraying
+- 👋 Hi, I’m @Mantispraying (Srajan)
 - 👀 I’m interested in Competitive Programming, Game development, Machine Learning, Web development and Programming in general.
 - 🌱 I’m currently learning Data Structures and Algorithms, MERN Stack
 - 💞️ I’m looking to collaborate on Any Project, preferred if it's interesting
