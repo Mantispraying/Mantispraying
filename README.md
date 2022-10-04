@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mantispraying (Srajan)
 - 👀 I’m interested in Competitive Programming, Game design, Machine Learning, Web development and Programming in general.
 - 🌱 I’m currently learning Data Structures and Algorithms, MERN Stack
-- 💞️ I’m looking to collaborate on Any Project, preferred if it requires System designing (Planning)
+- 💞️ I’m looking to collaborate on Any Project, preferred if it requires System design (Planning)
 - 📫 How to reach me: Email- srajanskgupta@gmail.com
 
 <!---
