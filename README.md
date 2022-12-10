@@ -1,3 +1,4 @@
+# 🧙‍♂️ [Srajan Gupta] [@MantisPraying]
 - 👋 Hi, I’m @Mantispraying (Srajan)
 - 👀 I’m interested in Competitive Programming, Game design, Machine Learning, Web development and Programming in general.
 - 🌱 I’m currently learning Data Structures and Algorithms, MERN Stack, Spring MVC
