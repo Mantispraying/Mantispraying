@@ -1,4 +1,4 @@
-# 🧙‍♂️ Srajan Gupta (@MantisPraying)
+# 🧙🏻 Srajan Gupta (@MantisPraying)
 [![GitHub followers](https://img.shields.io/github/followers/Mantispraying?label=Follow&style=social)](https://github.com/Mantispraying/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-srajanskgupta-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:srajanskgupta@gmail.com)](mailto:srajanskgupta@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/srajanskgupta/)](https://www.linkedin.com/in/srajanskgupta/)
