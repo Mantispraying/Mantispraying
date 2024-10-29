@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=srajanskgupta&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://leetcode.com/u/MantisPraying/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=stackoverflow&label=MantisPraying&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=MantisPraying&color=F6BE00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
