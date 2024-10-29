@@ -3,14 +3,15 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMantisPraying&logo=leetcode&logoColor=yellow)](https://leetcode.com/MantisPraying/)
 <h2 align="left">- 👋 Hi, I’m @Mantispraying (Srajan)<br>- 👀 I’m interested in Competitive Programming, Game design, Machine Learning, Web development and Programming in general.<br>- 🌱 I’m currently learning Data Structures and Algorithms, MERN Stack, Spring MVC<br>- 💞️ I’m looking to collaborate on Any Project, preferred if it requires System design (Planning)<br>- 📫 How to reach me: Email- srajanskgupta@gmail.com</h2>
 
-###
-
 <div align="left">
   <a href="mailto:srajanskgupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=srajanskgupta@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/srajanskgupta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=srajanskgupta&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/u/MantisPraying/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=stackoverflow&label=MantisPraying&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
